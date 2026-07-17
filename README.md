@@ -2,6 +2,8 @@
 
 A clean single-page task tracker built with React, Vite, and strict TypeScript.
 
+![Task Tracker demo](docs/demo.svg)
+
 ## Demo
 
 Run the app locally and open it in your browser:
